@@ -1,7 +1,7 @@
 # 💫 About Me:
-1st year IT Student at Central Luzon State University<br>
-Goal is to become a Cybersecurity Expert or Networking Specialist<br>
-Started coding a little late at 18 but dedicated to learn
+👀 1st year IT Student at Central Luzon State University<br>
+👾 Goal is to become a Cybersecurity Expert or Networking Specialist<br>
+🤝 coding a little late at 18 but dedicated to learn
 
 
 # 💻 Tech Stack:
